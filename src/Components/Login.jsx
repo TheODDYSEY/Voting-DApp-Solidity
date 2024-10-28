@@ -19,7 +19,7 @@ const Login = (props) => {
                         Securely log in to participate in decentralized voting.
                     </p>
                     <button 
-                        className="mt-10 w-full max-w-xs px-6 py-3 bg-indigo-600 text-white rounded-md font-semibold text-lg shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                        className="mt-10 w-full max-w-xs px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-md font-semibold text-lg shadow-sm hover:from-blue-500 hover:to-purple-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                         onClick={props.connectWallet}
                     >
                         Login with MetaMask
