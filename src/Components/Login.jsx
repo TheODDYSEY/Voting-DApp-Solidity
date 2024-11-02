@@ -19,11 +19,11 @@ const Login = (props) => {
 
         <div className="text-center max-w-md">
           <h1 className="text-5xl font-bold tracking-tight text-white sm:text-6xl mb-4">
-            Artemis 
+            Artemis
           </h1>
           <div className="relative rounded-full px-3 py-1 text-sm/6 text-white ring-1 ring-from-blue-500 ring-to-purple-500 hover:ring-gray-900/20">
-  <span className="font-semibold">Artemis Unleashed</span>
-  <span className="text-indigo-600 ml-2">Web3 Goddess Rising</span>
+  <span className="font-semibold">Revolutionize the Future</span>
+  <span className="text-indigo-600 ml-2">Empowering Web3 DApps</span>
 </div>
           <p className="mt-4 text-lg leading-7 text-gray-400">
             Empower Your Voice. Shape the Future.
