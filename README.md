@@ -1,5 +1,5 @@
 # Artemis: A Decentralized Voting DApp
-
+![Login Screen](./homepage.png)
 **Artemis** is a decentralized application (DApp) that leverages Ethereum blockchain technology to provide a secure and transparent voting system. Built with Solidity, Hardhat, and a React frontend, Artemis allows users to vote for candidates in a decentralized manner using their MetaMask wallets.
 
 ## Table of Contents
@@ -116,17 +116,17 @@ Each component is styled with Tailwind CSS, providing a clean, responsive interf
 
 - **Login Screen**  
   Allows users to connect their MetaMask wallet to access the DApp.  
-  ![Login Screen](./screenshots/login.png)
+  ![Login Screen](./homepage.png)
 
 - **Voting Interface (Connected)**  
   Shows the candidate list, remaining time, and vote submission options.  
-  ![Voting Interface](./screenshots/connected.png)
+  ![Voting Interface](./votingpage.png)
 
 - **Voting Finished Screen**  
   Displays a thank-you message when the voting session concludes.  
-  ![Finished Screen](./screenshots/finished.png)
+  ![Finished Screen](./finished.png)
 
-> Add your screenshots to the `screenshots` folder for easy reference in the README.
+
 
 ## Commands Summary
 
