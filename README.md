@@ -52,7 +52,7 @@ Artemis provides a secure, transparent voting platform where each vote is record
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Artemis.git
+git clone https://github.com/TheODDYSEY/Voting-DApp-Solidity
 cd Artemis
 npm install
 ```
