@@ -113,6 +113,7 @@ The React frontend facilitates user interactions and displays voting details. Ke
 
 Each component is styled with Tailwind CSS, providing a clean, responsive interface. The app uses React’s state and props to update in real-time as users connect their wallets, cast votes, and monitor session status.
 
+
 ### Screenshots
 
 - **Login Screen**  
