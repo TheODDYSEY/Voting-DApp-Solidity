@@ -129,7 +129,6 @@ Each component is styled with Tailwind CSS, providing a clean, responsive interf
   ![Finished Screen](./finished.png)
 
 
-
 ## Commands Summary
 
 | Command                                | Description                                    |
