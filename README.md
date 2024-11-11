@@ -54,7 +54,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/TheODDYSEY/Voting-DApp-Solidity
-cd Artemis
+cd Voting-DApp-Solidity
 npm install
 ```
 
